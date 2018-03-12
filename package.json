@@ -1,0 +1,31 @@
+{
+  "name": "javascript-practises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "react": "^16.2.0",
+    "react-redux": "^5.0.7",
+    "react-dom": "^16.2.0",
+    "webpack": "^4.1.1",
+    "webpack-dev-server": "^3.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivek13462/JavaScript-Practises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivek13462/JavaScript-Practises/issues"
+  },
+  "homepage": "https://github.com/vivek13462/JavaScript-Practises#readme"
+}
